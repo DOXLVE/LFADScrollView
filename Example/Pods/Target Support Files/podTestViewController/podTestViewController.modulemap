@@ -1,0 +1,6 @@
+framework module podTestViewController {
+  umbrella header "podTestViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}
